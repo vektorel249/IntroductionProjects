@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.Welcome", "Vektorel.Welcome.csproj", "{409C04BE-8025-49DB-9436-D6E392F9B7A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.TypeConvensions", "..\Vektorel.TypeConvensions\Vektorel.TypeConvensions.csproj", "{7F1B42EF-7155-4B57-B684-1FDB0B836320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.ConditionsAndLoops", "..\Vektorel.ConditionsAndLoops\Vektorel.ConditionsAndLoops.csproj", "{3D9B4DA7-BD97-4793-9C48-9A2CBFDFC741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.ClassDefinitions", "..\Vektorel.ClassDefinitions\Vektorel.ClassDefinitions.csproj", "{50F2CDD9-36CC-40E9-890D-0C2C8BE76A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{409C04BE-8025-49DB-9436-D6E392F9B7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409C04BE-8025-49DB-9436-D6E392F9B7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409C04BE-8025-49DB-9436-D6E392F9B7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409C04BE-8025-49DB-9436-D6E392F9B7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1B42EF-7155-4B57-B684-1FDB0B836320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1B42EF-7155-4B57-B684-1FDB0B836320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1B42EF-7155-4B57-B684-1FDB0B836320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1B42EF-7155-4B57-B684-1FDB0B836320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9B4DA7-BD97-4793-9C48-9A2CBFDFC741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9B4DA7-BD97-4793-9C48-9A2CBFDFC741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9B4DA7-BD97-4793-9C48-9A2CBFDFC741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9B4DA7-BD97-4793-9C48-9A2CBFDFC741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F2CDD9-36CC-40E9-890D-0C2C8BE76A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F2CDD9-36CC-40E9-890D-0C2C8BE76A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F2CDD9-36CC-40E9-890D-0C2C8BE76A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F2CDD9-36CC-40E9-890D-0C2C8BE76A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
